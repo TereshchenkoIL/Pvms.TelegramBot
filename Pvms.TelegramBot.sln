@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pvms.TelegramBot", "Pvms.TelegramBot\Pvms.TelegramBot.csproj", "{8092051B-6F98-4187-BB81-FD4079234B91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pvms.DAL", "Pvms.DAL\Pvms.DAL.csproj", "{224DFF62-F98E-47A5-A8B6-B95D888ABDCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataSeeder", "DataSeeder\DataSeeder.csproj", "{816D3F09-FA20-4997-BB65-528DA4816D1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8092051B-6F98-4187-BB81-FD4079234B91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8092051B-6F98-4187-BB81-FD4079234B91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8092051B-6F98-4187-BB81-FD4079234B91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8092051B-6F98-4187-BB81-FD4079234B91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{224DFF62-F98E-47A5-A8B6-B95D888ABDCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{224DFF62-F98E-47A5-A8B6-B95D888ABDCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{224DFF62-F98E-47A5-A8B6-B95D888ABDCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{224DFF62-F98E-47A5-A8B6-B95D888ABDCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{816D3F09-FA20-4997-BB65-528DA4816D1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{816D3F09-FA20-4997-BB65-528DA4816D1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{816D3F09-FA20-4997-BB65-528DA4816D1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{816D3F09-FA20-4997-BB65-528DA4816D1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
